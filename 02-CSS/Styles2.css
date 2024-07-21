@@ -5,6 +5,10 @@ body {
 
 }
 
+blockquote {
+    font-style:italic;
+}
+
 .Image {
     text-align: center;
 }
