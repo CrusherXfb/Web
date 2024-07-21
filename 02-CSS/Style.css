@@ -2,20 +2,26 @@
 
 h1 {
     font-family: 'Playwrite CU', 'Segoe Script', 'Arial';
+    background-color: rgba(105, 238, 234, 0.74);
 }
 
 h2 {
     color: cornflowerblue;
+    background-color: rgba(105, 238, 234, 0.74);
 }
 
 p {
     font-size: 18px;
     text-align: justify;
+    background-color: rgba(105, 238, 234, 0.74);
 }
 
 body {
     font-family: Roboto;
     font-weight: 100;
+    /*background-color:rgb(255, 210, 198);*/
+    background-image:url(PCB.jpg);
+    background-attachment:fixed;
 }
 
 #Intro {
@@ -42,4 +48,15 @@ body {
  */
  h1 ~ h2 {
      font-family:Consolas;
+ }
+
+ img {
+     /*align-content:center;*/
+     border:solid;
+     width:30%;
+     height:30%;
+     /*position:absolute;
+     padding:initial;*/
+     float:right;
+     margin-left:15px;
  }
