@@ -1,0 +1,17 @@
+﻿body {
+    font-size:24px;
+}
+
+ol {
+    /*list-style-type:georgian;*/
+}
+
+ul {
+    /*list-style-type:disc;*/
+    text-align: justify;
+    list-style-position: inside;
+}
+
+.test_class {
+    list-style-image: url(img/icon4.svg);
+}
