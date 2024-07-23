@@ -1,0 +1,29 @@
+﻿body {
+   font-family:Arial;
+   font-weight:600;
+}
+
+.SecondLevel {
+    list-style-type:lower-alpha;
+    color:black;
+}
+
+.ThirdLevel_orange {
+    list-style-image: url(img/orange.png);
+}
+
+.ThirdLevel_red {
+    list-style-image: url(img/red.png);
+}
+
+.FourthLevel_green {
+    list-style-image: url(img/green.png);
+}
+
+.FourthLevel_violet {
+    list-style-image: url(img/violet.png);
+}
+
+.FifthLevel_black {
+    list-style-image: url(img/black.png);
+}
