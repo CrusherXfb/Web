@@ -1,0 +1,42 @@
+﻿body
+{
+}
+
+table {
+    border: 1px;
+    border:solid;
+    /*border-collapse:collapse;*/
+    border-color:aqua;
+    background-color:aqua;
+}
+
+tr {
+    
+}
+
+td {
+    border: 1px, solid;
+    height: 15px;
+    width: 50px;
+    background-color: aqua;
+}
+
+.Yellow {
+    background-color:yellow;
+}
+
+.Red {
+    background-color: red;
+}
+
+.Darkblue {
+    background-color: rgb(0, 51, 153)
+}
+
+.Brown {
+    background-color: rgb(102, 51, 0);
+}
+
+.Green {
+    background-color: rgb(101, 102, 0);
+}
