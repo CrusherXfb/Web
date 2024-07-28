@@ -1,0 +1,25 @@
+﻿body {
+
+    font-family: Arial;
+    font-size: 24px;
+}
+
+input {
+    font-size:24px;
+    margin-bottom:10px;
+}
+
+select {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+button {
+    font-size: 16px;
+}
+
+.Question {
+    margin-left:30%;
+    margin-right:30%;
+
+}
