@@ -1,0 +1,27 @@
+﻿fieldset {
+    width:215px;
+}
+
+textarea {
+    width:240px;
+}
+
+input[type="text"] {
+    background-color:lightgreen;
+}
+
+input[type="checkbox"] {
+    color:red;
+}
+
+.EULA {
+    border:solid 1px;
+    width:700px;
+    height:450px;
+    overflow:auto;
+
+    font-family:Arial;
+    font-size:12px;
+    text-align:justify;
+    padding:20px;
+}
