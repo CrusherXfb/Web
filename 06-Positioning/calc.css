@@ -1,0 +1,50 @@
+﻿body
+{
+}
+
+.main_window {
+    border:solid 1px;
+    border-color: cornflowerblue;
+    background-color:silver;
+    width:400px;
+    height:300px;
+
+    position:relative;
+    top:150px;
+    left:300px;
+
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+}
+
+.title_bar {
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 30px;
+    font-family: Tahoma;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.app_icon {
+    width:25px;
+    height:25px;
+}
+
+.window_control_buttons {
+
+}
+
+.control_button {
+    width:24px;
+    height:24px;
+}
+
+.title_bar_left_side, .title_bar_right_side
+{
+    position:relative;
+    height:32px;
+    display:flex;
+    align-items:center;
+}
